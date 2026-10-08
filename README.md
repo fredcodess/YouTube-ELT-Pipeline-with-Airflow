@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate currently studying for an MSc in Artificial Intelligence.
+I'm a MSc in Artificial Intelligence with a background in Computer Science.
 
 I'm transitioning into data engineering because I enjoy the engineering problems behind data products, from getting data from sources, structuring it properly, automating the workflow, validating its quality, and making it usable for analysis and decision-making.
 
