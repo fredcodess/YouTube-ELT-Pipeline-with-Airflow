@@ -490,7 +490,6 @@ I’m naturally curious and enjoy figuring things out when I come across somethi
 
 ---
 
-
 # Author
 
 **Fredick Gyan Boakye**
