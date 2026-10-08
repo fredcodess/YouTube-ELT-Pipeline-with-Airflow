@@ -494,6 +494,6 @@ I’m naturally curious and enjoy figuring things out when I come across somethi
 
 **Fredick Gyan Boakye**
 
-Computer Science graduate | MSc Artificial Intelligence
+MSc Artificial Intelligence | Bsc Computer Science 
 
 📧 fredgyancodes@gmail.com
