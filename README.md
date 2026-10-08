@@ -482,11 +482,11 @@ constraints to protect the structure of the data.
 
 # The Data School
 
-I am applying to The Data School's Data Engineering Consultant programme because it offers the combination I am looking for, structured technical training followed by real client-facing engineering work. The opportunity to develop deeper skills in SQL, Python, APIs, pipelines and data modelling, before progressing into technologies such as Snowflake, Databricks, dbt and AWS, is particularly relevant to the direction I want to take as I have hands on experience with AWS and Databricks.
+I’m a Computer Science graduate and have recently completed an MSc in Artificial Intelligence. Over the last year, I’ve become increasingly interested in the engineering side of working with data and have been deliberately building my skills towards a career in data engineering. Alongside my academic and practical experience with Python, SQL and data analysis, I completed a Data Engineering course covering PostgreSQL, Python, PySpark, Spark SQL and Databricks, including hands-on data pipeline work on Udemy.  
 
-I am also attracted to the consulting environment. I want to become someone who can not only build a technical solution, but understand an ambiguous problem, ask the right questions, explain technical decisions clearly and adapt the solution to the needs of the people using it.
+I’m applying because I want to take that foundation further in a professional environment. I’m particularly interested in learning how experienced data engineers approach real-world problems, build reliable data platforms and work with technologies such as cloud platforms and modern data engineering tools. I also like that The Data School combines structured training with client work, as I think that would be a great environment for me to learn, contribute and develop into a well-rounded data engineer. 
 
-That is a skillset I want to develop alongside my technical ability.
+I’m naturally curious and enjoy figuring things out when I come across something I don’t understand. I’m also comfortable learning independently, but I value feedback and working with people who have more experience than me. At this stage of my career, I’m looking for an environment where I can keep learning while being challenged to apply what I know to real problems.
 
 ---
 
