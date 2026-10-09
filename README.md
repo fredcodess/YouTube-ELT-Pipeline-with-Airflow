@@ -480,6 +480,12 @@ constraints to protect the structure of the data.
 
 ---
 
+## Where AI helped
+
+I utilised AI as a collaborative tool during development, primarily to generate the initial code for the Streamlit dashboard interface and to speed up debugging obscure Airflow Docker log errors. However, because I needed to ensure strict historical data consistency, I manually rewrote and verified all critical pipeline components, including the PostgreSQL upsert logic, primary key snapshot strategy, and database constraints.
+
+---
+
 # The Data School
 
 I’m a Computer Science graduate and have recently completed an MSc in Artificial Intelligence. Over the last year, I’ve become increasingly interested in the engineering side of working with data and have been deliberately building my skills towards a career in data engineering. Alongside my academic and practical experience with Python, SQL and data analysis, I completed a Data Engineering course covering PostgreSQL, Python, PySpark, Spark SQL and Databricks, including hands-on data pipeline work on Udemy.  
